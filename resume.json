@@ -2,13 +2,12 @@
 	"basics": {
 		"name": "Yash Vardhan Maurya",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "https://drive.google.com/file/d/1p9LcC53TbBqOaEcUFLlqB5btTKiyMusQ/view?usp=sharing",
 		"email": "yashvardhan.maurya@gmail.com",
 		"phone": "8418865729",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"summary": "An Enthusiastic Tech Geek interested in Gaming, looking forward to learn and being a useful resource.",
 		"location": {
-			"address": "Ganj Sarnath Varanasi.",
+			"address": "Sarnath Varanasi.",
 			"postalCode": "221007",
 			"city": "Varanasi",
 			"countryCode": "India",
@@ -31,8 +30,8 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2019-07-23 //Date",
-		"endDate": "----",
+		"startDate": "2019-07 //Date",
+		"endDate": "2019-07",
 		"gpa": "7.96",
 		"courses": [
 			"Computer Science & Engineering"
@@ -40,14 +39,12 @@
 	}],
 	"projects and publications": [{
 		"title": "Roller Madness",
-		"details": "An interactive innovative first-person shooter game with the objective of
-shooting boxes to collect points, time bonuses, and time penalties.",
+		"details": "An interactive innovative first-person shooter game with the objective of shooting boxes to collect points, time bonuses, and time penalties.",
 		"link": "https://github.com/Yash-Vardhan-Maurya/Roller_Madness"
 	},
   {
 		"title": "Shoot 'Em Up",
-		"details": "A short interactive game with a simple task of collecting coins (as points)
-and avoiding box-shaped enemies.",
+		"details": "A short interactive game with a simple task of collecting coins (as points) and avoiding box-shaped enemies.",
 		"link": "https://github.com/Yash-Vardhan-Maurya/Shoot-em-Up"
 	},
   {
@@ -56,7 +53,7 @@ and avoiding box-shaped enemies.",
 		"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
 	}],
 	"skills": [{
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","C#", "MySQL","Unity3D","Python"]
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","C#", "MySQL","Unity3D","Python","DSA"]
 	}],
 	"interests": [{
 		"name": "Sports",

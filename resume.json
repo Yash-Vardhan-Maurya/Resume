@@ -1,0 +1,69 @@
+
+	"basics": {
+		"name": "Yash Vardhan Maurya",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "yashvardhan.maurya@gmail.com",
+		"phone": "8418865729",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "---Tell Something about yourself ---",
+		"location": {
+			"address": "Ganj Sarnath Varanasi.",
+			"postalCode": "221007",
+			"city": "Varanasi",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Yash-Vardhan-Maurya",
+				"url": "https://github.com/Yash-Vardhan-Maurya"
+			},
+			{
+				"network": "linkedin",
+				"username": "Yash Vardhan Maurya",
+				"url": "www.linkedin.com/in/yash-vardhan-maurya-205311199"
+			}
+		]
+	},
+		"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-07-23 //Date",
+		"endDate": "----",
+		"gpa": "7.96",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"projects and publications": [{
+		"title": "Roller Madness",
+		"details": "An interactive innovative first-person shooter game with the objective of
+shooting boxes to collect points, time bonuses, and time penalties.",
+		"link": "https://github.com/Yash-Vardhan-Maurya/Roller_Madness"
+	},
+  {
+		"title": "Shoot 'Em Up",
+		"details": "A short interactive game with a simple task of collecting coins (as points)
+and avoiding box-shaped enemies.",
+		"link": "https://github.com/Yash-Vardhan-Maurya/Shoot-em-Up"
+	},
+  {
+		"title": "Image Editor in Python",
+		"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
+		"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
+	}],
+	"skills": [{
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","C#", "MySQL","Unity3D","Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	},
+  {
+		"name": "Music",
+		"keywords": ["Vocals"]
+	}],
+}

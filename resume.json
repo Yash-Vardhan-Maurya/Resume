@@ -1,4 +1,4 @@
-
+{
 	"basics": {
 		"name": "Yash Vardhan Maurya",
 		"label": "Student",
@@ -13,8 +13,7 @@
 			"countryCode": "India",
 			"region": "Uttar Pradesh"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "Yash-Vardhan-Maurya",
 				"url": "https://github.com/Yash-Vardhan-Maurya"
@@ -26,7 +25,7 @@
 			}
 		]
 	},
-		"education": [{
+	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
@@ -38,29 +37,31 @@
 		]
 	}],
 	"projects and publications": [{
-		"title": "Roller Madness",
-		"details": "An interactive innovative first-person shooter game with the objective of shooting boxes to collect points, time bonuses, and time penalties.",
-		"link": "https://github.com/Yash-Vardhan-Maurya/Roller_Madness"
-	},
-  {
-		"title": "Shoot 'Em Up",
-		"details": "A short interactive game with a simple task of collecting coins (as points) and avoiding box-shaped enemies.",
-		"link": "https://github.com/Yash-Vardhan-Maurya/Shoot-em-Up"
-	},
-  {
-		"title": "Image Editor in Python",
-		"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
-		"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
-	}],
+			"title": "Roller Madness",
+			"details": "An interactive innovative first-person shooter game with the objective of shooting boxes to collect points, time bonuses, and time penalties.",
+			"link": "https://github.com/Yash-Vardhan-Maurya/Roller_Madness"
+		},
+		{
+			"title": "Shoot 'Em Up",
+			"details": "A short interactive game with a simple task of collecting coins (as points) and avoiding box-shaped enemies.",
+			"link": "https://github.com/Yash-Vardhan-Maurya/Shoot-em-Up"
+		},
+		{
+			"title": "Image Editor in Python",
+			"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
+			"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
+		}
+	],
 	"skills": [{
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","C#", "MySQL","Unity3D","Python","DSA","Git",]
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "C#", "MySQL", "Unity3D", "Python", "DSA", "Git"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
-	},
-  {
-		"name": "Music",
-		"keywords": ["Vocals"]
-	}],
+			"name": "Sports",
+			"keywords": ["Chess", "Badminton"]
+		},
+		{
+			"name": "Music",
+			"keywords": ["Vocals"]
+		}
+	]
 }

@@ -53,7 +53,7 @@
 		}
 	],
 	"skills": [{
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "C#", "MySQL", "Unity3D", "Python", "DSA", "Git"]
+		"keywords": ["HTML", "CSS", "Java", "C/C++", "C#", "SQL", "Unity3D", "Unreal Engine", "Python", "DSA", "Git", "Firebase", "NodeJs"]
 	}],
 	"interests": [{
 			"name": "Sports",

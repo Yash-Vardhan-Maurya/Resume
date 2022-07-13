@@ -37,19 +37,24 @@
 		]
 	}],
 	"publications": [{
-			"title": "Roller Madness",
-			"details": "An interactive innovative first-person shooter game with the objective of shooting boxes to collect points, time bonuses, and time penalties.",
+			"title": "Roller Madness, Game",
+			"details": "A single-player interactive game made using unity 3D for entertainment purposes.",
 			"link": "https://github.com/Yash-Vardhan-Maurya/Roller_Madness"
 		},
 		{
-			"title": "Shoot 'Em Up",
-			"details": "A short interactive game with a simple task of collecting coins (as points) and avoiding box-shaped enemies.",
+			"title": "Shoot 'Em Up, Game",
+			"details": "A single-player first-person shooting game made using unity 3D, with the objective of shooting boxes in limited time.",
 			"link": "https://github.com/Yash-Vardhan-Maurya/Shoot-em-Up"
 		},
 		{
-			"title": "Image Editor in Python",
-			"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
+			"title": "Image Editor, Python",
+			"details": "A utility-software made using Python with features like crop, brightness,etc.",
 			"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
+		},
+		{
+			"title": "Question Generator, Software",
+			"details": "A Machine Learning software made using Python utilizing concepts of NLP and T5 transformer, that automatically generates questions from a given text.",
+			"link": "https://github.com/Yash-Vardhan-Maurya/Question_Generator"
 		}
 	],
 	"skills": [{
@@ -61,7 +66,7 @@
 		},
 		{
 			"name": "Music",
-			"keywords": ["Vocals"]
+			"keywords": ["Electronic"]
 		}
 	]
 }

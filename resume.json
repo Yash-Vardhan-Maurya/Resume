@@ -58,7 +58,7 @@
 		}
 	],
 	"skills": [{
-		"keywords": ["HTML", "CSS", "Java", "C/C++", "C#", "SQL", "Unity3D", "Unreal Engine", "Python", "DSA", "Git", "Firebase", "NodeJs"]
+		"keywords": ["C/C++", "C#", "Java", "Python", "HTML", "NodeJs", "SQL", "Unity3D", "Unreal Engine", "DSA", "Firebase"]
 	}],
 	"interests": [{
 			"name": "Sports",
